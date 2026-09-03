@@ -15,7 +15,7 @@ btech cse graduate with who turning ideas into practical software solutions and 
 
 ---
 
-### Connect with Me
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anjuanilkumar/">
@@ -28,7 +28,7 @@ btech cse graduate with who turning ideas into practical software solutions and 
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Python;C;HTML;CSS;JavaScript;React;Django;FastAPI;SQL;MySQL" alt="Skills Marquee" />
@@ -36,7 +36,7 @@ btech cse graduate with who turning ideas into practical software solutions and 
 
 ---
 
-### My GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anjuanilkumar36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
