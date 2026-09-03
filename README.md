@@ -20,6 +20,6 @@
 
 ---
 
-<h3 align="center">🎮 X Always Wins</h3> <p align="center"> <img src="tic-tac-toe-loop.svg" width="300" alt="Tic Tac Toe looping animation"/> </p>
+<h3 align="center">🎮 X Always Wins</h3> <p align="center"> <img src="tic-tac-toe-loop.svg" width="200" alt="Tic Tac Toe looping animation"/> </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile — let's build something great together!</i></p>
