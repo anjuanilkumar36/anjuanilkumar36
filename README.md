@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Django | FastAPI | SQL | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+practical+software+solutions;B.Tech+CSE+Graduate;Django+%7C+FastAPI+%7C+React+Developer;Dedicated+to+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines= Turning+ideas+into+practical+software+solutions;B.Tech+CSE+Graduate;Django+%7C+FastAPI+%7C+React+Developer;Dedicated+to+Excellence" alt="Typing SVG" />
 </p>
 
 ---
