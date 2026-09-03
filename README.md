@@ -2,30 +2,41 @@
 <h3 align="center">Python Developer | Django | FastAPI | SQL | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+practical+software+solutions;B.Tech+CSE+Graduate;Django+%7C+FastAPI+%7C+React+Developer;Dedicated+to+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Turning+ideas+into+practical+software+solutions;B.Tech+CSE+Graduate;Django+%7C+FastAPI+%7C+Python+Developer;Dedicated+to+Excellence" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+<p align="center">
+btech cse graduate with who turning ideas into practical software solutions and dedication to excellence.
+</p>
 
-- 🎓 B.Tech CSE Graduate  
-- 💡 Passionate about turning ideas into practical software solutions  
-- 🌱 Constantly learning and improving my craft  
-- 🎯 Dedicated to excellence in everything I build  
-- 📫 Reach me at **anjuanilkumar36@gmail.com**
+- 📫 Reach me at [anjuanilkumar36@gmail.com](mailto:anjuanilkumar36@gmail.com)
 
 ---
 
-### 🛠️ Languages & Tools
+### Connect with Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,django,fastapi,sql,mysql" alt="skills" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjuanilkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anjuanilkumar36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### Languages & Tools
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Python;C;HTML;CSS;JavaScript;React;Django;FastAPI;SQL;MySQL" alt="Skills Marquee" />
+</p>
+
+---
+
+### My GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anjuanilkumar36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -38,16 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjuanilkumar36&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="mailto:anjuanilkumar36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile — let's build something great together!</i></p>
