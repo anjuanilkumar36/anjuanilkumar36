@@ -25,7 +25,7 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 -    Familiar with **React.js and JavaScript** for frontend development
 -    Exploring authentication, APIs and database-driven applications
 -    Currently building and improving full-stack projects
--    Open to **Junior Software Developer / Python Developer / ** opportunities
+-    Open to **Junior Software Developer / Python Developer** opportunities
 
 ---
 
