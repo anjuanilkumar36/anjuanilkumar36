@@ -19,17 +19,17 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Graduate
-- 🐍 Interested in **Python Development and Backend Development**
-- ⚙️ Hands-on experience with **Django, FastAPI and REST APIs**
-- 🗄️ Working with **MySQL, PostgreSQL and SQLite**
-- ⚛️ Familiar with **React.js and JavaScript** for frontend development
-- 🔐 Exploring authentication, APIs and database-driven applications
-- 🚀 Currently building and improving full-stack projects
-- 💼 Open to **Junior Software Developer / Python Developer / Backend Developer** opportunities
+-    Interested in **Python Development and Backend Development**
+-    Hands-on experience with **Django, FastAPI and REST APIs**
+-    Working with **MySQL, PostgreSQL and SQLite**
+-    Familiar with **React.js and JavaScript** for frontend development
+-    Exploring authentication, APIs and database-driven applications
+-    Currently building and improving full-stack projects
+-    Open to **Junior Software Developer / Python Developer / ** opportunities
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 <p>
@@ -58,7 +58,7 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🛒 E-Commerce Application
 
@@ -110,6 +110,9 @@ A web-based application for viewing and interacting with 3D GLB models in the br
 - GLB model rendering
 - Interactive 3D viewing
 - Web-based model visualization
+  
+🔗 **Repository:** 
+https://github.com/anjuanilkumar36/glb-model-viewer
 
 ---
 
@@ -117,11 +120,11 @@ A web-based application for viewing and interacting with 3D GLB models in the br
 
 - Advanced Python
 - Django development
-- FastAPI & REST API development
+- REST API development
 - SQL and database design
 - React.js
 - Git & GitHub
-- Backend development best practices
+- Backend development 
 
 ---
 
@@ -146,12 +149,7 @@ Worked on Python fundamentals including:
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjuanilkumar36&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjuanilkumar36&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
