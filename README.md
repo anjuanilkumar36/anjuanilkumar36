@@ -91,6 +91,7 @@ A final-year team project focused on detecting harmful and abusive content on so
 - Web-based interface
 
 **My contribution:**
+- Served as the Team Lead for this final-year project.
 - Developed the React.js frontend interface
 - Worked with the Django-based application
 - Assisted with project deployment and integration
