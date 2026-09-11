@@ -21,7 +21,7 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 - 🎓 B.Tech Computer Science & Engineering Graduate
 -    Interested in **Python Development and Backend Development**
 -    Hands-on experience with **Django, FastAPI and REST APIs**
--    Working with **MySQL, PostgreSQL and SQLite**
+-    Working with **MySQL, PostgreSQL**
 -    Familiar with **React.js and JavaScript** for frontend development
 -    Exploring authentication, APIs and database-driven applications
 -    Currently building and improving full-stack projects
@@ -48,7 +48,7 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### Tools & Technologies
