@@ -133,20 +133,12 @@ https://github.com/anjuanilkumar36/glb-model-viewer
 
 **B.Tech in Computer Science & Engineering**
 
-Visat Engineering College under Kerala Technological University
+Visat Engineering College, 
+A PJ Abdul Kalam Technological University, TVM, Kerala
 
 ---
 
-## 💼 Internship
 
-**Python Intern — Technovalley Software India Pvt. Ltd.**
-
-Worked on Python fundamentals including:
-
-- Variables and data types
-- Loops and functions
-- Object-Oriented Programming
-- Basic Python programming concepts
 
 ---
 
