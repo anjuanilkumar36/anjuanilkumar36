@@ -11,7 +11,8 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 <p align="center">
   <a href="mailto:anjuanilkumar36@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/anjuanilkumar/">LinkedIn</a> •
-  <a href="https://github.com/anjuanilkumar36">GitHub</a>
+  <a href="https://github.com/anjuanilkumar36">GitHub</a> •
+  <a href="https://anju-portfolio-pied.vercel.app/">Portfolio</a>
 </p>
 
 ---
