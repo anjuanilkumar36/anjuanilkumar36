@@ -60,7 +60,7 @@ B.Tech Computer Science & Engineering Graduate passionate about building practic
 
 ##  Featured Projects
 
-### 🛒 E-Commerce Application
+### 🛒  ShopEase : E - Commerce Application
 
 A full-stack e-commerce application built to practice real-world frontend, backend and database integration.
 
@@ -73,7 +73,7 @@ A full-stack e-commerce application built to practice real-world frontend, backe
 - API-based frontend/backend communication
 - Database integration
 
-🔗 **Repository:** Coming soon
+🔗 **Repository:** https://github.com/anjuanilkumar36/shopease---Ecommerce
 
 ---
 
