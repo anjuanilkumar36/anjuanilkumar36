@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anju Anilkumar</h1>
 
 <h3 align="center">
-Python Developer | Django | FastAPI | REST APIs | SQL | React
+Python | Django | FastAPI | REST APIs | SQL | React
 </h3>
 
 <p align="center">
